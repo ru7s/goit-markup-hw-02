@@ -28,6 +28,15 @@ color: #404bbf;
 
 .logo-color{color:#2e2f42 ;}
 
+.list{
+  list-style: none;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color:#434455 ;
+
+}
+
 .list-a{
 font-weight: 500;
 line-height: 1.5;
