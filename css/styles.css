@@ -8,7 +8,7 @@ background-color: #ffffff ;}
 
 /*header*/
 
-.nav-logo{
+.nav-logo link{
   font-family:"Raleway",sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -17,7 +17,4 @@ background-color: #ffffff ;}
   text-transform: uppercase;
   color: #4d5ae5;
   text-decoration: none;
-}
-.logo-st{
-  color:#2e2f42 ;
 }
