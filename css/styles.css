@@ -19,6 +19,12 @@ background-color: #ffffff ;}
   text-decoration: none;
 }
 .link{text-decoration: none;}
+.link:hover{
+  color:#404bbf ;
+}
+.link:focus{
+color: #404bbf;
+}
 
 .logo-color{color:#2e2f42 ;}
 
