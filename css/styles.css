@@ -61,3 +61,19 @@ color: #434455;
     text-align: center;
     color: #ffffff;
   }
+  .section-but{
+    background-color: #4D5AE5;
+    font-family:"Roboto",sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.15;
+    letter-spacing: 0.04;
+    color:#ffffff;
+    cursor: pointer;
+  }
+  .section-but:hover{
+    background-color:#404BBF ;
+  }
+    .section-but:focus{
+      background-color:#404BBF ;
+    }
