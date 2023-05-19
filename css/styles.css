@@ -31,6 +31,9 @@ color:#2e2f42 ;
 .list-a:hover{
   color: #404bbf;
 }
+.list:focus{
+  color: #404bbf;
+}
 
 /*address*/
 
