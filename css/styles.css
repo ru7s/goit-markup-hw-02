@@ -6,7 +6,7 @@ body{font-family:"Roboto",sans-serif ;
 color: #434455;
 background-color: #ffffff ;}
 
-/*header*/
+/*header,logo,menu*/
 
 .logo {
   font-family:"Raleway",sans-serif;
@@ -30,4 +30,13 @@ color:#2e2f42 ;
 }
 .list-a:hover{
   color: #404bbf;
+}
+
+/*address*/
+
+.address{
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
