@@ -31,7 +31,7 @@ color:#2e2f42 ;
 .list-a:hover{
   color: #404bbf;
 }
-.list:focus{
+.list-a:focus{
   color: #404bbf;
 }
 
