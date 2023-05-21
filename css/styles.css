@@ -84,6 +84,8 @@ color: #434455;
     letter-spacing: 0,02em;
     color: #2e2f42;
   }
+  /*section-2*/
+
   .features-head{
     font-weight: 500;
       font-size: 20px;
@@ -94,4 +96,13 @@ color: #434455;
 .features-text{
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+/*section-3*/
+.section-img{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
