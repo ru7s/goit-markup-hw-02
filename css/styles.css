@@ -99,6 +99,7 @@ color: #434455;
 }
 
 /*section-3*/
+
 .section-img{
   font-size: 36px;
   line-height: 1.11;
@@ -106,3 +107,14 @@ color: #434455;
   text-transform: capitalize;
   color: #2e2f42;
 }
+/*section-4*/
+.section4-team{
+  background-color: #F4F4FD;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42 ;
+}
+
