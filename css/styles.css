@@ -109,7 +109,10 @@ color: #434455;
   color: #2e2f42;
 }
 /*section-4*/
-.section-4{
+.list{
+  background-color: #ffffff;
+}
+.section-format-4{
   background-color: #F4F4FD;
 }
 
