@@ -27,7 +27,9 @@ background-color: #ffffff ;}
 color: #404bbf;
 }
 
-.logo-color{color:#2e2f42 ;}
+.logo-color{color:#2e2f42;
+  font-family: "Releway"sans-serif;
+}
 
 .list-a{
 font-weight: 500;
