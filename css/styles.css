@@ -139,8 +139,12 @@ color: #434455;
   letter-spacing: 0.04em;
   color: #4d5ae5;
   background-color: #F4F4FD;
-
-
+}
+.desing-all:hover{
+  color: #FFFFFF;
+}
+.desing-all:focus{
+  color:  #FFFFFF;
 }
 
 
