@@ -142,9 +142,11 @@ color: #434455;
 }
 .desing-all:hover{
   color: #FFFFFF;
+  background-color: #404BBF;
 }
 .desing-all:focus{
   color:  #FFFFFF;
+  background-color: #404BBF;
 }
 
 
