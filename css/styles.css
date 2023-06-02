@@ -42,12 +42,12 @@ font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: var(--background-color);
+}
 
-}
 .list.b{
-  color: #434455;
-  color: var(--grey);
+color: var(--grey);
 }
+
 .list-a:hover{
   color: #404bbf;
 }
