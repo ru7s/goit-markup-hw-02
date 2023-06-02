@@ -45,6 +45,7 @@ color: var(--background-color);
 
 }
 .list.b{
+  color: #434455;
   color: var(--grey);
 }
 .list-a:hover{
