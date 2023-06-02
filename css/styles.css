@@ -44,6 +44,9 @@ letter-spacing: 0.02em;
 color: var(--background-color);
 
 }
+.list.b{
+  color: var(--grey);
+}
 .list-a:hover{
   color: #404bbf;
 }
