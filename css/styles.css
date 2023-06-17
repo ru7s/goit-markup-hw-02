@@ -28,20 +28,12 @@ background-color:var(--white-color);}
   color:var(--blu-color);
   text-decoration: none;
 }
+
 .link{text-decoration: none;}
 
-.link:hover{
-  color:#404bbf ;
-}
-.link:focus{
-color: #404bbf;
-}
-
 .logo-color{
-  color:var(--background-color);
-  
+  color:var(--background-color);  
 }
-
 
 .list-a{
 font-weight: 500;
@@ -57,14 +49,9 @@ letter-spacing: 0.02em;
 color: var(--grey);
 }
 
-.list-a:hover{
+.list-a:hover,.list-a:focus{
   color: #404bbf;
 }
-.list-a:focus{
-  color: #404bbf;
-}
-
-
 /*address*/
 
 .address{
@@ -99,13 +86,10 @@ color: var(--grey);
     color:var(--white-color);
     cursor: pointer;
   }
-  .section-but:hover{
+  .section-but:hover,.section-but:focus{
     background-color:var(--dark-blu);
   }
-    .section-but:focus{
-      background-color:var(--dark-blu);
-    }
-  .features-title{
+   .features-title{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -152,8 +136,6 @@ color: var(--grey);
 }
 /*Footer*/
 
-
-
 .logo-footer{
   color:var(--light-white);
 }
@@ -171,14 +153,11 @@ color: var(--grey);
   background-color:var(--light-white);
   cursor: pointer;
 }
-.desing-all:hover{
+.desing-all:hover,.desing-all:focus{
   color:var(--white-color);
   background-color:var(--dark-blu);
 }
-.desing-all:focus{
-  color:var(--white-color);
-  background-color:var(--dark-blu);
-}
+
 .card-name{
   font-weight: 500;
   font-size: 20px;
