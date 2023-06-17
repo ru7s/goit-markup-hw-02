@@ -52,6 +52,9 @@ color: var(--grey);
 .list-a:hover,.list-a:focus{
   color: #404bbf;
 }
+.list-b:hover,.list-b:focus{
+  color: #404bbf;
+}
 /*address*/
 
 .address{
