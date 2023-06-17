@@ -2,6 +2,11 @@
   --grey: #434455;
 --background-color:#2e2f42;
 --blu-color:#4d5ae5;
+--dark-grey: #8e8f99;
+  --white-color: #FFFFFF;
+  --light-green: #31d0aa;
+  --light-white: #f4f4fd;
+  --dark-blu: #404bbf;
 
 }
 
@@ -9,8 +14,8 @@
 /*body*/
 
 body{font-family:"Roboto",sans-serif ;
-color: #434455;
-background-color: #ffffff ;}
+color:var(--grey);
+background-color:var(--white-color);}
 
 /*header,logo,menu*/
 
@@ -21,7 +26,7 @@ background-color: #ffffff ;}
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4d5ae5;
+  color:var(--blu-color);
   text-decoration: none;
 }
 .link{text-decoration: none;}
@@ -33,7 +38,8 @@ background-color: #ffffff ;}
 color: #404bbf;
 }
 
-.logo-color{color:#2e2f42;
+.logo-color{
+  color:#2e2f42;
   
 }
 
