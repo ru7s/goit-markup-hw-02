@@ -142,8 +142,9 @@ color: var(--grey);
 }
 /*section-4*/
 .list{
-  background-color:var(--white-color);
+  list-style: none;
 }
+
 .section-format-img{
   background-color:var(--light-white);
 }
